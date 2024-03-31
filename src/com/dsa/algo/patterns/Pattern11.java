@@ -10,6 +10,7 @@ package com.dsa.algo.patterns;
 1 0 1 0 
 1 0 1 0 1 
 
+
  */
 public class Pattern11 {
 
