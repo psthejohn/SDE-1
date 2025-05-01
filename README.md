@@ -164,3 +164,12 @@ Key Points:
 How to run: The instructions are provided for compiling and running the code without using Bash commands. The steps are platform-independent and focus on general compilation commands for Java.
 
 Folder Structure: I kept the folder structure formatting clean and simple.
+
+## **Built with Focus & Dedication by Pushpinder Singh**
+
+If you'd like to connect, feel free to reach out!
+
+- **Email**: programmerpushpinder@gmail.com or psthejohn@gmail.com
+- **LinkedIn**: [Pushpinder Singh LinkedIn](https://www.linkedin.com/in/pushpinderdeveloper/)
+
+Thank you for visiting the repository! 😊
