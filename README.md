@@ -154,13 +154,13 @@ Contributions are welcome! If you'd like to contribute to this repository, feel 
 
 ## **License**
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License
 
 ---
 
 Happy coding! 🚀
 
-Key Points:
+##Key Points:
 How to run: The instructions are provided for compiling and running the code without using Bash commands. The steps are platform-independent and focus on general compilation commands for Java.
 
 Folder Structure: I kept the folder structure formatting clean and simple.
@@ -170,6 +170,6 @@ Folder Structure: I kept the folder structure formatting clean and simple.
 If you'd like to connect, feel free to reach out!
 
 - **Email**: programmerpushpinder@gmail.com or psthejohn@gmail.com
-- **LinkedIn**: [Pushpinder Singh LinkedIn](https://www.linkedin.com/in/pushpinderdeveloper/)
+- **LinkedIn**: [Pushpinder Singh](https://www.linkedin.com/in/pushpinderdeveloper/)
 
 Thank you for visiting the repository! 😊
