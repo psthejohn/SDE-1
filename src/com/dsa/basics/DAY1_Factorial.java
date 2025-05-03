@@ -3,9 +3,16 @@ import java.util.Scanner;
 public class DAY1_Factorial {
 
     private static int factorial (int n){
-        if (n<1) return 1;
-        return n*factorial(n-1);
+        int result = 1;
+        while(n>0){
+            result*=n--;
+        }
+        return result;
     }
+    // private static int factorial (int n){
+    //     if (n<1) return 1;
+    //     return n*factorial(n-1);
+    // }
 
     public static void main(String args[]){
         
