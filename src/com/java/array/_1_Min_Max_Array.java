@@ -1,4 +1,4 @@
-package com.java.array;
+package com.java.Array;
 
 public class _1_Min_Max_Array {
 
